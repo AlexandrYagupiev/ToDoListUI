@@ -1,0 +1,1 @@
+A:\Тестовые\TestProjSenior\Frontend\ToDoListUI\ToDoListUI\obj\Debug\todolistui.esproj.CoreCompileInputs.cache
